@@ -1,4 +1,5 @@
 ### Hi there 👋
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoPriftis&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 
 <!--
 **GustavoPriftis/GustavoPriftis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
