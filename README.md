@@ -17,8 +17,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
     <img width="12" />
-   <img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
-  <img width="12" />
+
 <div
 
 ![GitHub Snake Game](https://raw.githubusercontent.com/GustavoPriftis/GustavoPriftis/output/github-contribution-grid-snake.svg)
