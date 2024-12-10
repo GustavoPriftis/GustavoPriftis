@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![github contribution grid animation](https://raw.githubusercontent.com/GustavoPriftis/GustavoPriftis/output/github-contribution-grid-snake.svg)
+<picture>
+  <!-- For light mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoPriftis/GustavoPriftis/output/github-snake-dark.svg" />
+  <!-- For dark mode -->
+  <img src="https://raw.githubusercontent.com/GustavoPriftis/GustavoPriftis/output/github-snake.svg" alt="GitHub Snake Game" />
+</picture>
+
 
 <!--
 **GustavoPriftis/GustavoPriftis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
