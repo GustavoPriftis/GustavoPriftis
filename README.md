@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![GitHub Snake Game](https://raw.githubusercontent.com/GustavoPriftis/GustavoPriftis/output/github-contribution-grid-snake.svg)
+### Hi there 👋, i work primarily with Java and React projects, aspiring to be an full fledged developer 💪
 
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -22,6 +20,8 @@
    <img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
   <img width="12" />
 <div
+
+![GitHub Snake Game](https://raw.githubusercontent.com/GustavoPriftis/GustavoPriftis/output/github-contribution-grid-snake.svg)
 
 <!--
 **GustavoPriftis/GustavoPriftis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
