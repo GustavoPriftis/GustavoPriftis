@@ -2,7 +2,6 @@
 
 ![GitHub Snake Game](https://raw.githubusercontent.com/GustavoPriftis/GustavoPriftis/output/github-contribution-grid-snake.svg)
 
-> For dark mode: View the [dark version](https://raw.githubusercontent.com/GustavoPriftis/GustavoPriftis/output/github-snake-dark.svg).
 
 
 <!--
