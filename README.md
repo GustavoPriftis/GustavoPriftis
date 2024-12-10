@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![github contribution grid animation](https://raw.githubusercontent.com/GustavoPriftis/GustavoPriftis/output/github-contribution-grid-snake.svg)
 <!--
 **GustavoPriftis/GustavoPriftis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
