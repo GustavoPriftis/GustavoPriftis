@@ -2,8 +2,6 @@
 
 <div align="center">
     <img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" />
-    <img src="https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" height="40" alt="maven logo" />
-    <img width="12" />
     <img alt="PostgreSQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" />
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="junit logo" />
     <img width="12" />
