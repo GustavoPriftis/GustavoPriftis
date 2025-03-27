@@ -1,4 +1,4 @@
-### Hi there 👋, i work primarily with Java and React projects, aspiring to be an full fledged developer 💪
+### Hi there, i work primarily with Java and React projects
 
 <div align="center">
     <img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" />
@@ -9,5 +9,4 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
     <img width="12" />
-
 <div
